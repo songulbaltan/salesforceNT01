@@ -3,7 +3,10 @@ package firstpackage;
 public class firstClass {
 
 
-//hello
+
+    // we will do git collaboration using github
+    //be ready
+
 
 
 }
